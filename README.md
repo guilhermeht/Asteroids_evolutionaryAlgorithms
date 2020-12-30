@@ -1,5 +1,7 @@
 # Asteroids with Evolutionary Algorithms
 
+[Video explicativo](https://youtu.be/vv4i2TNSf3Q)
+
 Asteroirds with evolutionary algorithms is a Evolutive Algorithms University Project.
 The main purpose of this project is to see how the spaceships evolve to keep staying alive.
 
